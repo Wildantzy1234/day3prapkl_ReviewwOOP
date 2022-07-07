@@ -14,7 +14,7 @@
 
 
         
-
+        <h1>Data </h1>
         <br><br><center><h2>DATA peserta </h2></center>
         <!-- CARDs -->
         <div class="container">
